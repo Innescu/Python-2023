@@ -20,3 +20,9 @@
 
 - Wypisać wszystkie liczby od `1` do `100` które spełniają warunek z poprzedniego zadania
 - wczytaj przy użyciu `input()` liczbę; wypisz sumę jej cyfr
+
+number =(input("Podaj liczbę"))
+sum = 0
+  for i in str(number);
+    sum += int(i)
+  print (suma)

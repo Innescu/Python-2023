@@ -21,3 +21,9 @@ for i in range(10):
         break
 else:
     print("Koniec")
+
+number =input("Podaj liczbę")
+suma = 0
+    for char in str(number):
+        suma += int(char)
+    print(suma)

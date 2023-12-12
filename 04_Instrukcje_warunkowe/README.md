@@ -21,3 +21,7 @@
 
 - wczytaj liczbę 2 cyfrową - wypisz `Dobra liczba` jeśli suma jej cyfr dzieli się przez 7 oraz liczba jest parzysta, a `Zła liczba` w przeciwnym wypadku
 
+- 
+- 
+if (i := int(input("podaj liczbę dwucyfrową"))) % 7 == 0:
+    print(f'')
