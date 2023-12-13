@@ -24,6 +24,6 @@ else:
 
 number =input("Podaj liczbę")
 suma = 0
-    for char in str(number):
-        suma += int(char)
+for char in str(number):
+    suma += int(char)
     print(suma)
